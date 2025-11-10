@@ -10,7 +10,7 @@
 // ==========================================
 
 
-// 🔸 string → টেক্সট বা অক্ষর রাখেs
+// 🔸 string → টেক্সট বা অক্ষর রাখে
 let userName: string = "Ridoan"
 let country: string = 'Bangladesh'
 let sentence: string = `Hello, my name is ${userName}`
